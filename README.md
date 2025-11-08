@@ -1,6 +1,3 @@
-# How-to-play-Yuzu-Games-Online
-How to play Yuzu Games Online with "Local Multiplayer"
-
 ESPAÑOL
 Cómo jugar Juegos Online en Yuzu - Por BeNach0 (Discord)
 ====================================================
